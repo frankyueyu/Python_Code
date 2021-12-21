@@ -9,7 +9,7 @@ for u in range(1, 3):
 		y += 1
 	
 		if y == 3 or w == 2:
-			z += 1
+			z += 2
 			y = 0
 	
 		if u == 1:
