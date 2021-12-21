@@ -1,5 +1,5 @@
 for u in range(1, 3):
-	v = 20
+	v = 40
 	x = 0
 	y = 0
 	z = 1
